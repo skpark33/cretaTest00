@@ -8400,7 +8400,7 @@ q.GY()
 return A.m(null,r)}})
 return A.n($async$atq,r)},
 KE:function KE(a){this.a=a},
-azL(a,b,c){var s,r,q,p=null,o="thumbnailUrl",n="_value",m="thumbnailType",l="assets/creta_default.png"
+azL(a,b,c){var s,r,q,p=null,o="thumbnailUrl",n="_value",m="thumbnailType",l="creta_default.png"
 $.x().R("drawBackground "+A.e(a)+", "+A.e(b),5)
 try{if(J.aY(A.b(A.b(c.dy,o).a,n))===0||A.b(A.b(c.fr,m).a,n)===B.b3){r=A.on(B.C0,A.acL(A.a2g(B.n,new A.a9(a,b,J.aY(A.b(A.b(c.dy,o).a,n))===0?A.ze(l,p,B.aT,p,p):A.azn(A.b(A.b(c.dy,o).a,n),new A.a5N(),B.aT),p),B.aT)))
 return r}if(A.b(A.b(c.fr,m).a,n)===B.b2){r=new A.Cc(A.b(A.b(c.dy,o).a,n),new A.a5O(),new A.H(a,b),A.b(A.b(c.fx,"thumbnailAspectRatio").a,n),new A.aR(p,t.Aj))
@@ -42847,7 +42847,7 @@ l=$.fO
 l.toString
 return new A.zZ(l,j,!1,i)}}
 A.a5N.prototype={
-$3(a,b,c){return A.ze("assets/creta_default.png",null,B.aT,null,null)},
+$3(a,b,c){return A.ze("creta_default.png",null,B.aT,null,null)},
 $S:149}
 A.a5O.prototype={
 $0(){},
@@ -43789,7 +43789,7 @@ $S:3}
 A.acE.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null
 if(b.b==null)return A.eq(new A.a9(100,100,A.zM(),m),m,m)
-if(b.c!=null)return A.ze("assets/creta_default.png",m,B.aT,m,m)
+if(b.c!=null)return A.ze("creta_default.png",m,B.aT,m,m)
 s=this.a.a
 r=s.r
 q=s.f
